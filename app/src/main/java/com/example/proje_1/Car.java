@@ -16,7 +16,7 @@ public class Car {
     private int doors;
 
 
-
+// yeni
 
     public void setColor(String color) {
         this.color=color;
