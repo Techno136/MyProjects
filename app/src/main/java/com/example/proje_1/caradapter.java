@@ -3,7 +3,7 @@ package com.example.proje_1;
 public class caradapter {
 
     public static void main(String[] args) {
-        //nnnnnn
+        // merhaba java
 
         Car car1= new Car();
 
